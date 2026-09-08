@@ -4,6 +4,6 @@ title: "What We Eat, Who We Are: Food, Identity, and Community Among Asian Ameri
 description: my dissertation project
 img: assets/img/whatweeatfinal.jpg
 importance: 1
-category: work
+category: solo
 related_publications: true
 ---
