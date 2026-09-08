@@ -5,3 +5,4 @@ description: Methods of data collection and analysis used by sociologists. Exper
 instructor: Prof. Paul Hanselman
 year: 2026
 term: Winter
+---
