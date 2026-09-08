@@ -21,6 +21,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a cultural sociologist with broad research interests in race and ethnicity, gender and sexuality, and food studies. I am a PhD Candidate in sociology at the University of California, Irvine with a graduate emphasis in Asian American Studies and a Graduate Feminist Emphasis. My dissertation, entitled What We Eat, Who We Are: Food, Identity, and Community Among Asian Americans, investigates the role of food and foodways in identity maintenance and formation for Asian Americans, with a focus on how these processes differ across life stages and gender.
+I am a Japanese-Uchinanchu scholar born and raised on O‘ahu and currently based on Tongva and [Acjachemen](https://www.jbmian.com/history.html#/) land. As a PhD Candidate in sociology at the University of California, Irvine, I am also pursuing a graduate emphasis in Asian American Studies and a Graduate Feminist Emphasis. I have broad research interests in race and ethnicity, gender and sexuality, and food studies. My dissertation, entitled **What We Eat, Who We Are: Food, Identity, and Community Among Asian Americans**, investigates the role of food and foodways in identity maintenance and formation for Asian Americans, with a focus on how these processes differ across life stages and gender.
 
 In addition to writing academic books and articles, I also co-edit [The Recipes Project](https://recipes.hypotheses.org), a quarterly online publication devoted to recipe studies of all kinds.
