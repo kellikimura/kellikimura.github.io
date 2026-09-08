@@ -5,3 +5,4 @@ description: Focuses on how institutional and organizational features of societi
 instructor: Prof. Rocio Rosales
 year: 2023
 term: Winter
+---
