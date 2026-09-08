@@ -5,3 +5,4 @@ description: Focuses on how institutional and organizational features of societi
 instructor: Prof. Francesca Polletta
 year: 2024
 term: Fall
+---
