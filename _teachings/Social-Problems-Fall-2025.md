@@ -5,3 +5,4 @@ description: Focuses on how institutional and organizational features of societi
 instructor: Prof. Kassia Wosick
 year: 2025
 term: Fall
+---
