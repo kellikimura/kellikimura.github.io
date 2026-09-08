@@ -1,3 +1,4 @@
+---
 <img width="587" height="546" alt="image" src="https://github.com/user-attachments/assets/724de035-a767-4f23-9836-caaab975e0f5" />---
 layout: page
 title: "Relatable Experts: Constructing Authenticity on TikTok"
