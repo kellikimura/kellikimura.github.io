@@ -37,12 +37,13 @@ cv:
         location: Irvine, CA
         start_date: 2022
         end_date: Present
-          -Research Methods (Winter 2025, Winter 2026, Spring 2026)
-          -Asian Americans & the Media (Summer 2025, Summer 2026)
-          -Introduction to Sociology (Fall 2022)
-          -Social Problems (Fall/Winter 2023, Fall 2024, Fall 2025) 
-          -Research Methods in Psychology (Spring 2023)
-          -People in Society (Winter/Spring 2024) ● Brain Disorders (Spring 2025)
+        highlights:
+          - Research Methods (Winter 2025, Winter 2026, Spring 2026)
+          - Asian Americans & the Media (Summer 2025, Summer 2026)
+          - Introduction to Sociology (Fall 2022)
+          - Social Problems (Fall/Winter 2023, Fall 2024, Fall 2025)
+          - Research Methods in Psychology (Spring 2023)
+          - People in Society (Winter/Spring 2024) ● Brain Disorders (Spring 2025)
 
     Service:
       - company: The Recipes Project
@@ -70,7 +71,7 @@ cv:
         start_date: 2022
         end_date: 2023
 
-  Fellowship and Awards:
+    Fellowship and Awards:
       - title: Environmental Racism and Health Equity Program Fellow
         date: 2022-2024
         awarder: University of California, Irvine Racial Justice Shop
