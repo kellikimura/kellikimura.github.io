@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Asian American Eating Habits
+title: I Could Go For That: An Asian American Eating Habits Project
 description: a survey project in the works
 img: 
 importance: 3
